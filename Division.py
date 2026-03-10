@@ -1,1 +1,1 @@
-print("Division:",20/4)
+print("Division:",20/2)
